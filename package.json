@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "@seserageek/eslint-config",
+  "version": "0.0.1",
+  "description": "Common ESlint configs for Seserageekers",
+  "keywords": [
+    "ESLint"
+  ],
+  "homepage": "https://github.com/seserageek/eslint-config-seserageek#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seserageek/eslint-config-seserageek"
+  },
+  "license": "MIT",
+  "author": "koyasaeki",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/eslint": "8.44.8",
+    "@types/node": "20.10.1",
+    "tsconfigs": "5.0.0",
+    "typescript": "5.3.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=8"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

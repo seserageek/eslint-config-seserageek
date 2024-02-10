@@ -1,5 +1,7 @@
 .github
+.editorconfig
+
 src
 node_modules
-tsconfig
+tsconfig.json
 package-lock.json

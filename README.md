@@ -1,6 +1,9 @@
 # @seserageek/eslint-config
 
-![./LICENSE](https://img.shields.io/github/license/nuxt/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D)
+<a href="https://www.npmjs.com/package/@seserageek/eslint-config"><img src="https://img.shields.io/npm/v/@seserageek/eslint-config
+"></a>
+<a href="https://www.npmjs.com/package/@seserageek/eslint-config"><img src="https://img.shields.io/npm/l/@seserageek/eslint-config
+"></a>
 
 Seserageek の共通 ESLint 設定です。
 
@@ -26,5 +29,3 @@ export default [
   // your custom configs
 ];
 ```
-
-

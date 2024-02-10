@@ -15,7 +15,8 @@
   "author": "koyasaeki",
   "main": "lib/index.js",
   "scripts": {
-    "compile": "tsc"
+    "compile": "tsc",
+    "prepublish": "npm run compile"
   },
   "devDependencies": {
     "@types/eslint": "8.44.8",
